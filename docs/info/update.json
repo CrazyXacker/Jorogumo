@@ -29,8 +29,8 @@
 		"min_version_code": "1",
 		"update_url": "https://github.com/CrazyXacker/Jorogumo/releases",
 		"changelog_en": [
-			"- fixed brakes while packing archives",
-"- fixed a bug due to which it was impossible to log into the directory account using Cookies",
+			"- fixed UI slowdowns while packing archives",
+"- fixed a bug due to which it was impossible to log into the catalog account using Cookies",
 "- new module: Associating archive metadata with Hentag. It will be useful for unifying the name of hentai library files and for filling it with Atsumeru-compatible metadata"
 		],
 		"changelog_ru": [
