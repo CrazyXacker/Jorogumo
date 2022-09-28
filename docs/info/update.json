@@ -24,15 +24,19 @@
 		]
 	},
 	"release": {
-		"version_name": "1.0",
-		"version_code": "1",
+		"version_name": "1.1",
+		"version_code": "2",
 		"min_version_code": "1",
 		"update_url": "https://github.com/CrazyXacker/Jorogumo/releases",
 		"changelog_en": [
-			"- First version"
+			"- fixed brakes while packing archives",
+"- fixed a bug due to which it was impossible to log into the directory account using Cookies",
+"- new module: Associating archive metadata with Hentag. It will be useful for unifying the name of hentai library files and for filling it with Atsumeru-compatible metadata"
 		],
 		"changelog_ru": [
-			"- Первая версия"
+			"- исправлены тормоза во время упаковки архивов",
+"- исправлена ошибка из-за которой вход в аккаунт каталога с помощью Cookies был невозможен",
+"- новый модуль: Связывание метаданных архивов с Hentag. Будет полезно для унификации названия файлов хентай-библиотеки и для заполения ее Atsumeru-совместимыми метаданными"
 		]
 	}
 }
